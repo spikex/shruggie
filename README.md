@@ -1,4 +1,3 @@
-# espanso-package-example
-An example on how to create an espanso package.
+# shruggie
 
-For more information, read the [documentation](https://espanso.org/docs/)
+A simple package to insert ¯\_(ツ)_/¯ (the Shruggie) when you type :shrug.
